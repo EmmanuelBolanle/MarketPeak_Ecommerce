@@ -1,10 +1,10 @@
 ## Table of Contents
 
-- [Introduction]
-- [Deployment_Step]
-- [Challenges]
-- [Troubleshooting]
-- [Acknowledgments]
+- Introduction
+- Deployment Step
+- Challenges
+- Troubleshooting
+- Acknowledgments
 
 ## Introduction
 Welcome to our E-commerce website project
