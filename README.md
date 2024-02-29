@@ -1,10 +1,10 @@
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Deployment_Step](deployment_steps)
-- [Challenges](#challenges)
-- [Troubleshooting](#troubleshooting)
-- [Acknowledgments](#acknowledgments)
+- [Introduction]
+- [Deployment_Step]
+- [Challenges]
+- [Troubleshooting]
+- [Acknowledgments]
 
 ## Introduction
 Welcome to our E-commerce website project
